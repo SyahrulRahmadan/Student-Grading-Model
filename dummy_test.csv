@@ -1,0 +1,21 @@
+Student_Age,Sex,High_School_Type,Scholarship,Additional_Work,Sports_activity,Transportation,Weekly_Study_Hours,Attendance,Reading,Notes,Listening_in_Class,Project_work,Final Score
+23,Female,Private,75%,No,No,Private,11,Sometimes,No,Yes,Yes,Yes,AA
+18,Female,Private,100%,Yes,No,Bus,7,Sometimes,Yes,Yes,Yes,No,Fail
+22,Male,Private,100%,Yes,Yes,Private,19,Always,No,Yes,No,Yes,DD
+21,Female,Private,25%,No,Yes,Bus,20,Always,No,Yes,No,No,Fail
+19,Male,State,50%,Yes,Yes,Bus,5,Always,Yes,Yes,Yes,No,CC
+20,Male,Private,75%,Yes,Yes,Private,1,Always,No,No,Yes,No,DD
+25,Male,State,100%,No,Yes,Private,18,Sometimes,No,No,No,No,DD
+22,Female,State,50%,No,Yes,Private,4,Always,No,Yes,Yes,Yes,CC
+24,Male,Private,50%,No,No,Private,1,Always,Yes,No,No,No,BA
+22,Male,Private,100%,Yes,Yes,Bus,16,Always,No,Yes,No,Yes,DD
+24,Female,Private,25%,Yes,No,Bus,4,Always,No,No,No,No,BB
+19,Male,Private,100%,Yes,Yes,Bus,17,Always,Yes,No,Yes,No,BB
+24,Male,Private,50%,Yes,No,Bus,16,Always,No,Yes,Yes,Yes,AA
+18,Male,Private,25%,Yes,Yes,Private,5,Always,No,Yes,Yes,No,AA
+23,Male,Private,100%,Yes,No,Private,13,Always,No,Yes,Yes,No,BB
+21,Female,State,75%,Yes,Yes,Private,20,Always,No,Yes,Yes,No,Fail
+24,Male,State,100%,Yes,Yes,Bus,20,Always,No,No,Yes,No,AA
+21,Female,State,50%,No,Yes,Private,6,Always,No,Yes,No,Yes,CC
+21,Male,State,75%,Yes,No,Private,12,Always,Yes,No,Yes,No,BA
+22,Female,Private,25%,No,No,Bus,18,Always,No,Yes,No,Yes,DD
